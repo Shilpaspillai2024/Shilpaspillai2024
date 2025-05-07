@@ -72,14 +72,6 @@
 - 🗣️ I believe in constant growth — "Learn it, Build it, Share it!"
 
 ---
-
-## 🧮 Visitor Count:
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=Shilpaspillai2024&icon=0&color=10" alt="Visitor Count" />
-</p>
-
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
 
 <!-- Designed with ❤️ by Shilpa using markdown and Readme tools -->
