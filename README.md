@@ -1,6 +1,6 @@
 <!-- Banner or Profile Image -->
 <p align="center">
-  <img src="https://i.imgur.com/zQZSWrt.png" alt="Shilpa Pillai Banner" width="100%" />
+  <img src="Make your README.png" alt="Shilpa Pillai Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Shilpa S Pillai 👋</h1>
